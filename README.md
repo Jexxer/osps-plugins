@@ -5,7 +5,7 @@ exists so the launcher has somewhere to fetch from.
 
 ## For players
 
-Download **`StartOrion.jar`** from Discord, put it wherever you like, and run
+Download **`Runelite.jar`** from Discord, put it wherever you like, and run
 it. It downloads the current plugin pack and starts the Orion client with the
 plugins loaded.
 
@@ -35,7 +35,7 @@ lives in `%LOCALAPPDATA%\OrionPlugins`.
 Run it from a command prompt:
 
 ```
-java -jar StartOrion.jar --dry-run
+java -jar Runelite.jar --dry-run
 ```
 
 That prints which Java it found, which client jar, and which pack version it
