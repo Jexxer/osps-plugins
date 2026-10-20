@@ -1,6 +1,6 @@
 # osps-plugins
 
-Builds of the Orion plugin pack. **The source is not here** — this repository
+**The source is not here** — this repository
 exists so the launcher has somewhere to fetch from.
 
 ## For players
